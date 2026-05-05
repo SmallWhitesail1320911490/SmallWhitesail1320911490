@@ -14,18 +14,18 @@ const lifan = {
 
 ## Now
 
-- Building gesture-driven, browser-native interfaces like [shengbei-wish](https://github.com/SmallWhitesail1320911490/shengbei-wish).
-- Building [llm-obsidian-agent](https://github.com/SmallWhitesail1320911490/llm-obsidian-agent), a local LLM workspace that turns Q&A into Obsidian knowledge notes.
+- Building gesture-driven, browser-native interfaces like [shengbei-wish](https://github.com/WhiteSailLabs/shengbei-wish).
+- Building [llm-obsidian-agent](https://github.com/WhiteSailLabs/llm-obsidian-agent), a local LLM workspace that turns Q&A into Obsidian knowledge notes.
 - Exploring AI agent tooling, codebase understanding, and LLM evaluation.
 - Learning deep learning, vision, and software architecture by shipping small projects.
 
 ## Projects
 
-- [shengbei-wish](https://github.com/SmallWhitesail1320911490/shengbei-wish) - a React + Three.js ritual interface with gesture interaction.
-- [llm-obsidian-agent](https://github.com/SmallWhitesail1320911490/llm-obsidian-agent) - a local LLM Q&A workspace that automatically organizes useful answers into Obsidian.
-- [job-agent](https://github.com/SmallWhitesail1320911490/job-agent) - experiments around agent workflows.
-- [awesome-ai-agent-interview](https://github.com/SmallWhitesail1320911490/awesome-ai-agent-interview) - notes and resources for AI agent interviews.
-- [personal_web](https://github.com/SmallWhitesail1320911490/personal_web) - personal web experiments.
+- [shengbei-wish](https://github.com/WhiteSailLabs/shengbei-wish) - a React + Three.js ritual interface with gesture interaction.
+- [llm-obsidian-agent](https://github.com/WhiteSailLabs/llm-obsidian-agent) - a local LLM Q&A workspace that automatically organizes useful answers into Obsidian.
+- [job-agent](https://github.com/WhiteSailLabs/job-agent) - experiments around agent workflows.
+- [awesome-ai-agent-interview](https://github.com/WhiteSailLabs/awesome-ai-agent-interview) - notes and resources for AI agent interviews.
+- [personal_web](https://github.com/WhiteSailLabs/personal_web) - personal web experiments.
 
 ## Open Source Interests
 
